@@ -70,14 +70,3 @@ Each main file executes a full cycle of:
 - Strategy score update based on reward (coverage gain)
 
 Results and error traces will be saved in a result directory if implemented
-
-## 5. Citation
-
-If you find the code useful, please cite our paper.
-```
-********
-```
-
-## 6. Contact
-
-For any questions, please drop an email to ********.
